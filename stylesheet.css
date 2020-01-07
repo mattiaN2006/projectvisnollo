@@ -12,7 +12,22 @@ body {
   text-align: center;
   font-size: 15px;
 }
-.header {
+.topnav {
   display: flex;
-  background-color: #FFA29F;
+  overflow: hidden;
+  background-color: #3D3937;
+  border-radius:15px;
+}
+.topnav a {
+  float: left;
+  border-radius:15px;
+  color: #9B9491;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: #4E4845;
+  color: #282828;
 }
