@@ -17,6 +17,8 @@ body {
   overflow: hidden;
   background-color: #3D3937;
   border-radius:15px;
+  margin-left: 300px;
+
 }
 .topnav a {
   float: left;
@@ -30,4 +32,10 @@ body {
 .topnav a:hover {
   background-color: #4E4845;
   color: #282828;
+}
+
+div.Pagina {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0px;
 }
