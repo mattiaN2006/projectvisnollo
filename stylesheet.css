@@ -1,15 +1,18 @@
 body {
   background-color: #FF726F;
 }
-.flex-container {
+.logo {
   display: flex;
-  justify-content: left;
 }
-.flex-container > div {
+.logo > div {
   border-radius:15px;
   background-color: #FFA29F;
   width: 100px;
   margin: 15px;
   text-align: center;
   font-size: 15px;
+}
+.header {
+  display: flex;
+  background-color: #FFA29F;
 }
