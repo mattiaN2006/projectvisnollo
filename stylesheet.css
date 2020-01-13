@@ -15,7 +15,7 @@ body {
 .topnav {
   display: flex;
   overflow: hidden;
-  background-color: #3D3937;
+  background-color: #FFA29F;
   border-radius:15px;
   margin-left: 100px;
   justify-content: space-around;
