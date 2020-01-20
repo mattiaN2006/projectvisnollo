@@ -49,5 +49,7 @@ body {
   font-size: 15px;
 }
 .boxvoorlocaties {
-
+  border-radius: 600px
+  background-color: #d60d0d;
+  padding-left: 1000px;
 }
