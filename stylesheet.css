@@ -40,6 +40,10 @@ body {
   display: flex;
   justify-content: flex-start;
 }
+.line2 {
+  display: flex;
+  justify-content: flex-start;
+}
 .sidebar {
   border-radius:15px;
   background-color: #FFA29F;
@@ -52,4 +56,11 @@ body {
   border-radius: 600px
   background-color: #d60d0d;
   padding-left: 1000px;
+}
+.text {
+  border-radius:15px;
+  background-color: #FFA29F;
+  margin: 15px;
+  text-align: center;
+  font-size: 15px;
 }
