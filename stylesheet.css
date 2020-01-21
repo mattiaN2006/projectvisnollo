@@ -58,6 +58,8 @@ body {
   padding-left: 1000px;
 }
 .text {
+  display: flex;
+  justify-content: flex-end;
   border-radius:15px;
   background-color: #FFA29F;
   margin: 15px;
