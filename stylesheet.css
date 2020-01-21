@@ -11,6 +11,8 @@ body {
   margin: 15px;
   text-align: center;
   font-size: 15px;
+  border-style: solid;
+  border-color: #3D3937;
 }
 .topnav {
   display: flex;
@@ -24,7 +26,7 @@ body {
   display: flex;
   border-radius:15px;
   color: #9B9491;
-  padding: 20px 16px;
+  padding: 45px 16px;
   padding-left: 95px;
   padding-right: 95px;
   text-decoration: none;
@@ -45,15 +47,12 @@ body {
 .sidebar {
   border-radius:15px;
   background-color: #FFA29F;
-  width: 150px;
+  width: 240px;
   margin: 15px;
   text-align: center;
   font-size: 15px;
-}
-.boxvoorlocaties {
-  border-radius: 600px
-  background-color: #d60d0d;
-  padding-left: 1000px;
+  border-style: solid;
+  border-color: #3D3937;
 }
 .text {
   display: flex;
@@ -63,4 +62,7 @@ body {
   margin: 15px;
   text-align: center;
   font-size: 15px;
+  border-style: solid;
+  border-color: #3D3937;
+  width: 1300px;
 }
