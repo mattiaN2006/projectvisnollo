@@ -71,3 +71,15 @@ body {
   border-color: #3D3937;
   width: 1300px;
 }
+
+.textt {
+  display: flex;
+  border-radius:15px;
+  background-color: #FFA29F;
+  margin: 15px;
+  text-align: center;
+  font-size: 15px;
+  border-style: solid;
+  border-color: #3D3937;
+  width: 1300px;
+}
