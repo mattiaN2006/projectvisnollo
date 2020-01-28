@@ -83,3 +83,7 @@ body {
   border-color: #3D3937;
   width: 1300px;
 }
+tr.vakken {
+  display: flex;
+  flex-direction: column;
+}
