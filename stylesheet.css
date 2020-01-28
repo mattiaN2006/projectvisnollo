@@ -1,5 +1,6 @@
 body {
-  background-color: #FF532B
+  background-image: url(oosterpark.png);
+  background-size: cover;
 }
 .logo {
   display: flex;
