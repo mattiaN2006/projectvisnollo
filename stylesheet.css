@@ -89,3 +89,13 @@ p.lijstlessen {
   display: flex;
   justify-content: center;
   }
+footer {
+  position: fixed;
+  top: 600px;
+  border-radius:15px;
+  background-color: #FFA29F;
+  text-align: center;
+  font-size: 15px;
+  border-style: solid;
+  border-color: #3D3937
+}
