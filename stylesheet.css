@@ -71,6 +71,7 @@ body {
 
 .textt {
   display: flex;
+  justify-content: flex-start;
   border-radius:15px;
   background-color: #FFA29F;
   margin: 15px;
@@ -96,7 +97,7 @@ td.007 {
 p.lijstlessen {
   display: flex;
   justify-content: center;
-  }
+}
 table {
     display: flex;
     justify-content: flex-start;
