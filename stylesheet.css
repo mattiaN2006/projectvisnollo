@@ -108,9 +108,9 @@ table {
 th {
   border: 1px solid 	#3D3937;
  }
- footer {
+footer {
    position: fixed;
-   top: 600px;
+   bottom: 10px;
    border-radius:15px;
    background-color: #FFA29F;
    text-align: center;
