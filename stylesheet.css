@@ -97,7 +97,10 @@ p.lijstlessen {
   display: flex;
   justify-content: center;
   }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 64dec5aa652422604302e74b7789e0b3a8b78ff9
 table {
     display: flex;
     justify-content: flex-start;
@@ -108,4 +111,18 @@ table {
 }
 th {
   border: 1px solid 	#3D3937;
+<<<<<<< HEAD
 }
+=======
+ }
+ footer {
+   position: fixed;
+   top: 600px;
+   border-radius:15px;
+   background-color: #FFA29F;
+   text-align: center;
+   font-size: 15px;
+   border-style: solid;
+   border-color: #3D3937
+ }
+>>>>>>> 64dec5aa652422604302e74b7789e0b3a8b78ff9
