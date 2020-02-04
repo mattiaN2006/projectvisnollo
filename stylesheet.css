@@ -121,3 +121,8 @@ footer {
   width: 1570px;
   background-color: #3D3937;
  }
+
+img.Pabloisstom {
+  display: flex;
+  justify-content: flex-end;
+}
