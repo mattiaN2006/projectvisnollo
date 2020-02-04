@@ -75,7 +75,7 @@ body {
   border-radius:15px;
   background-color: #FFA29F;
   margin: 15px;
-  text-align: center;
+  text-align: left;
   font-size: 15px;
   border-style: solid;
   border-color: #3D3937;
@@ -100,10 +100,9 @@ p.lijstlessen {
 }
 table {
     display: flex;
-    justify-content: flex-start;
     text-align: center;
     border: 1px solid 	#3D3937;
-    margin: auto;
+    
     font-family: cursive;
 }
 th {
