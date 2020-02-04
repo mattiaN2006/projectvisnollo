@@ -59,6 +59,7 @@ body {
 .text {
   display: flex;
   justify-content: flex-end;
+  flex-direction: column;
   border-radius:15px;
   background-color: #FFA29F;
   margin: 15px;
